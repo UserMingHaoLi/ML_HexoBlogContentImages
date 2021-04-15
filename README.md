@@ -6,7 +6,7 @@
 那个兼容性不强.
 
 [ML_HexoBlogContentBackUp][Blog_Link]  
-[github.io][github.io_Link]]
+[github.io][github.io_Link]
 
 [github.io_Link]:userminghaoli.github.io "我的github.io"
 [Blog_Link]:https://github.com/UserMingHaoLi/ML_HexoBlogContentBackUp "博客数据本体"
